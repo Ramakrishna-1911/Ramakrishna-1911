@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "41130948927",
+    "project_id": "hackathon-b64ba",
+    "storage_bucket": "hackathon-b64ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41130948927:android:0da3fd4acc7cb772f43b8a",
+        "android_client_info": {
+          "package_name": "com.example.crop1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLUsNcovBojtjwilwg6Kf5pFQmvgLLHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41130948927:android:194ed4454892e726f43b8a",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLUsNcovBojtjwilwg6Kf5pFQmvgLLHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41130948927:android:b5f1fe4be9fa6b65f43b8a",
+        "android_client_info": {
+          "package_name": "com.example.hackattack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLUsNcovBojtjwilwg6Kf5pFQmvgLLHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

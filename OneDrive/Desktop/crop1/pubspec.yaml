@@ -1,0 +1,29 @@
+name: crop1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0
+  firebase_storage: ^11.6.0
+  cloud_firestore: ^4.15.4
+  firebase_auth: ^4.17.4
+  video_player: ^2.5.1
+  image_picker: ^1.1.2
+  fluttertoast: ^8.2.8
+  file_picker: ^8.0.7
+  flutter_tts: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
